@@ -1,0 +1,6 @@
+@CarAndAll__Groep_I__HostAddress = http://localhost:5285
+
+GET {{CarAndAll__Groep_I__HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
